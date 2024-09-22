@@ -15,11 +15,15 @@
     "author": "Titanium Network",
     "license": "MIT",
     "dependencies": {
+        "acorn-hammerhead": "^0.6.1",
         "babel": "^6.23.0",
         "corrosion": "^1.0.0",
+        "css-tree": "^2.3.1",
         "express": "^4.17.1",
         "mime-types": "^2.1.27",
         "node-fetch": "^3.2.0",
+        "parse5": "^7.1.2",
+        "webpack": "^5.75.0",
         "ws": "^7.5.3"
     }
 }

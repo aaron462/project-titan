@@ -70,7 +70,7 @@ window.goProx = {
     },
     womginx: function(url, stealth) {
         setAuthCookie("wgauth=yes", false);
-        goToUrl("https://new-holy-unblock-womginx.herokuapp.com" + "/main/" + omnibox(url), stealth);
+        goToUrl("https://a." + getDomain() + "/main/" + omnibox(url), stealth);
     },
     searx: function(stealth) {
         setAuthCookie("oldsmobile=badcar", true);
@@ -81,7 +81,7 @@ window.goProx = {
         goToUrl("https://c." + getDomain(), stealth);
     },
     rnav: function(stealth) {
-        goToUrl("https://new-holy-unblock-rammerhead.herokuapp.com/", stealth);
+        goToUrl("https://client." + getDomain(), stealth);
     },
     osu: function(stealth) {
         setAuthCookie("osauth=true", false);
@@ -109,23 +109,23 @@ window.goProx = {
     },
     train: function(stealth) {
         setAuthCookie("wgauth=yes", false);
-        goToUrl("https://new-holy-unblock-womginx.herokuapp.com" + "/go/" + ('v6p9' + 'd9t4.ssl.hw' + 'cdn.net/html/1970' + '387/index.ht' + 'ml'), stealth);
+        goToUrl("https://a." + getDomain() + "/go/" + ('v6p9' + 'd9t4.ssl.hw' + 'cdn.net/html/1970' + '387/index.ht' + 'ml'), stealth);
     },
     village: function(stealth) {
         setAuthCookie("wgauth=yes", false);
-        goToUrl("https://new-holy-unblock-womginx.herokuapp.com" + "/go/" + ('v6p' + '9d9t4.ss' + 'l.hwcd' + 'n.net/html/3' + '626475/index.html'), stealth);
+        goToUrl("https://a." + getDomain() + "/go/" + ('v6p' + '9d9t4.ss' + 'l.hwcd' + 'n.net/html/3' + '626475/index.html'), stealth);
     },
     prison: function(stealth) {
         setAuthCookie("wgauth=yes", false);
-        goToUrl("https://new-holy-unblock-womginx.herokuapp.com" + "/go/" + ('v6p' + '9d9t4.ssl.hwc' + 'dn.net/h' + 'tml/364' + '7099/index.html'), stealth);
+        goToUrl("https://a." + getDomain() + "/go/" + ('v6p' + '9d9t4.ssl.hwc' + 'dn.net/h' + 'tml/364' + '7099/index.html'), stealth);
     },
     rpg: function(stealth) {
         setAuthCookie("wgauth=yes", false);
-        goToUrl("https://new-holy-unblock-womginx.herokuapp.com" + "/go/" + ('v6p9d9' + 't4.ssl.hwc' + 'dn.net/html/347' + '0524/Die%20in%20the%20Du' + 'ngeon%201.1%20[WEB]/index.html'), stealth);
+        goToUrl("https://a." + getDomain() + "/go/" + ('v6p9d9' + 't4.ssl.hwc' + 'dn.net/html/347' + '0524/Die%20in%20the%20Du' + 'ngeon%201.1%20[WEB]/index.html'), stealth);
     },
     speed: function(stealth) {
         setAuthCookie("wgauth=yes", false);
-        goToUrl("https://new-holy-unblock-womginx.herokuapp.com" + "/go/" + ('v6p9' + 'd9t4.ssl.hw' + 'cdn.net/html/36' + '28752/index.html'), stealth);
+        goToUrl("https://a." + getDomain() + "/go/" + ('v6p9' + 'd9t4.ssl.hw' + 'cdn.net/html/36' + '28752/index.html'), stealth);
     },
     heli: function(stealth) {
         setAuthCookie("wgauth=yes", false);

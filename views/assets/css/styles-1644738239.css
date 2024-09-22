@@ -30,19 +30,19 @@ see https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/i
 /* '~' function hexav(a,b){var da=parseInt(a,16),db=parseInt(b,16),diff=db-da,step=diff/3,dc=da+step,dd=db-step,c=Math.round(dc).toString(16),d=Math.round(dd).toString(16);return[c,d];} */
 
 :root {
-    --nord0: #2e3440;
-    --nord0m2: #323946;
-    --nord0m3: #373d4c;
-    --nord1: #3b4252;
-    --nord2: #434c5e;
-    --nord3: #4c566a;
+    --nord0: #1a1b1e;
+    --nord0m2: #161718;
+    --nord0m3: #1f2023;
+    --nord1: #2b2e36;
+    --nord2: #343841;
+    --nord3: #34373d;
     --nord4: #d8dee9;
     --nord5: #e5e9f0;
     --nord6: #eceff4;
-    --nord7: #8fbcbb;
-    --nord8: #88c0d0;
-    --nord8lighter: #98d0e0;
-    --nord9: #81a1c1;
+    --nord7: #646868;
+    --nord8: #6d8288;
+    --nord8lighter: #769198;
+    --nord9: #64707d;
     --nord10: #5e81ac;
     --nord11: #bf616a;
     --nord12: #d08770;
@@ -61,15 +61,15 @@ see https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/i
     --cyan: #3498DB;
     --white: #fff;
     --gray: #999;
-    --gray-dark: #303030;
+    --gray-dark: #1c1c1c;
     --primary: #375a7f;
-    --secondary: #444;
+    --secondary: #363636;
     --success: #00bc8c;
     --info: #3498DB;
     --warning: #F39C12;
     --danger: #E74C3C;
     --light: #999;
-    --dark: #303030;
+    --dark: #000000;
 }
 
 

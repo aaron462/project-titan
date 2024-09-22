@@ -28,4 +28,4 @@ app.use((req, res) => {
 });
 
 server.listen(port);
-console.log('Holy Unblocker is listening on port ' + port + '.');
+console.log('Miracle Proxy is listening on port ' + port + '.');
